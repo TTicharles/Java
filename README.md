@@ -1,11 +1,11 @@
 # Java
-java web 个人网站开发
+###java web 个人网站开发
 
-主要功能模块 ：登陆注册 博客的发布 以及封装好的 文章评论等接口
+####主要功能模块 ：登陆注册 博客的发布 以及封装好的 文章评论等接口
 
-开发工具 myeclipse 服务器 tomocat 数据库 MySQL Java版本 jdk1.8
+####开发工具 myeclipse 服务器 tomocat 数据库 MySQL Java版本 jdk1.8
 
-开发模式 spring mvc 
+####开发模式 spring mvc 
 
 ![image](https://github.com/TTicharles/Java/raw/master/WebRoot/img/ufo_show/ufo1.png)
 
